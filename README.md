@@ -9,7 +9,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github.com/DKuzibaev/DKuzibaev/blob/main/madara-uchiha-mangekyou-sharingan-moewalls-com-ezgif.com-effects.gif" width="800">
+  <img src="https://github.com/DKuzibaev/DKuzibaev/blob/main/assets/madara-uchiha-mangekyou-sharingan-moewalls-com-ezgif.com-effects.gif" width="800">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/🦎_Madara_Vibes-black" />
