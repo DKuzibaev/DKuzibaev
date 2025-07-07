@@ -53,7 +53,7 @@
       <a href="https://github.com/DKuzibaev/js-telergam-bot">JS Telegram Bot</a>: Telegram-бот на Node.js для автоматизации задач.<br>
       <a href="https://github.com/DKuzibaev/check_purchases_in_the_store">Check Purchases</a>: CLI-утилита для анализа покупок и отправки данных в ClickHouse.<br>
       <a href="https://github.com/DKuzibaev/log_analyzer">Log Analyzer</a>: Bash-инструмент для анализа логов веб-сервера.<br>
-      <a href="https://github.com/DKuzibaev/MadaraCLI">MadaraCLI</a>: CLI на Go с мотивационными цитатами Учихи Мадары (в разработке).
+      <a href="https://github.com/DKuzibaev/PasswordSaver">PasswordSaver</a>: CLI на Go для сохранения паролей и загрузки в облачное БД (ClickHouse) (В работе).
     </p>
   </div>
 
