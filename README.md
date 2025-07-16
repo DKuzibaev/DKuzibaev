@@ -66,7 +66,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=DKuzibaev&theme=nord" />
   </div>
   <br>
-
+    
   <div align="center">
     <h2>📫 Связаться</h2>
     <a href="mailto:dkuzybaev@yandex.ru"><img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
