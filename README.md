@@ -52,9 +52,9 @@
     <p>
       <a href="https://github.com/DKuzibaev/check_purchases_in_the_store">Check Purchases</a>: CLI-утилита для анализа покупок и отправки данных в ClickHouse.<br>
       <a href="https://github.com/DKuzibaev/log_analyzer">Log Analyzer</a>: Bash-инструмент для анализа логов веб-сервера.<br>
-      <a href="https://github.com/DKuzibaev/PasswordSaver">PasswordSaver</a>: CLI на Go для сохранения паролей и загрузки в облачное БД (ClickHouse) (В работе).
-      <a href="https://github.com/DKuzibaev/library_api"></a>: RESTFull API для Библиотеки на фреймворке GIN (в работе) <br>
-        <a href="https://github.com/DKuzibaev/FiberREST_API"></a>: RESTFull TODO API на Fiber (в работе) <br>
+      <a href="https://github.com/DKuzibaev/PasswordSaver">PasswordSaver</a>: CLI на Go для сохранения паролей и загрузки в облачное БД (ClickHouse) (В работе). <br>
+      <a href="https://github.com/DKuzibaev/library_api">RESTFull API для Библиотеки</a> на фреймворке GIN (в работе) <br>
+        <a href="https://github.com/DKuzibaev/FiberREST_API">RESTFull TODO API</a> на Fiber (в работе) <br>
     </p>
   </div>
 
