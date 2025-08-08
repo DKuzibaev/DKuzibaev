@@ -73,14 +73,7 @@
     <a href="mailto:dkuzybaev@yandex.ru"><img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
     <a href="https://t.me/whiteblackasian"><img src="https://img.shields.io/badge/Telegram-2e3440?style=for-the-badge&logo=Telegram&logoColor=fff" /></a>
   </div>
-
-  <br>
-
-  <div align="center">
-    <h2>🌟 Fun Fact</h2>
-    <p>Учу Go, чтобы писать код так же мощно, как Мадара использует Риннеган! В свободное время создаю треки на Volca Sampler 2 и Volca Bass. 🦎🔥</p>
-  </div>
-
 </details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=D32F2F§ion=footer"/>
+
