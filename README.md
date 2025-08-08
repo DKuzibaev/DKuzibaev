@@ -63,8 +63,6 @@
   <div align="center">
     <h2>📊 Статистика</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=DKuzibaev&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=00ADD8&icon_color=00ADD8" />
-    <span></span>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DKuzibaev&theme=nord" />
   </div>
   <br>
     
@@ -73,7 +71,9 @@
     <a href="mailto:dkuzybaev@yandex.ru"><img src="https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
     <a href="https://t.me/whiteblackasian"><img src="https://img.shields.io/badge/Telegram-2e3440?style=for-the-badge&logo=Telegram&logoColor=fff" /></a>
   </div>
+  <br>
 </details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=D32F2F§ion=footer"/>
+
 
