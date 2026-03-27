@@ -105,10 +105,10 @@ What I focus on:
 
   <br>
 
-  <div align="center">
-    <h2>📊 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=DKuzibaev&show_icons=true&bg_color=0D1117&text_color=FFFFFF&title_color=D32F2F&icon_color=D32F2F" />
-  </div>
+<div align="center">
+  <h2>📊 Contribution Activity</h2>
+  <img src="https://streak-stats.demolab.com?user=DKuzibaev&theme=dark&ring=D32F2F&fire=D32F2F&currStreakLabel=D32F2F" />
+</div>
 
   <br>
 
