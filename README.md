@@ -14,7 +14,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/AI_Automation-D32F2F" />
   <img src="https://img.shields.io/badge/System_Analysis-black" />
-  <img src="https://img.shields.io/badge/SEO_Engineering-D32F2F" />
   <img src="https://img.shields.io/badge/Data_Engineering-black" />
 </div>
 
