@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hello, World! I'm Doniyor</h1>
-  <h3>System Analyst • AI Automation Engineer • SEO Lead • Data Engineer</h3>
+  <h3>System Analyst • AI Automation Engineer • Data Engineer</h3>
 </div>
 
 <br/>
