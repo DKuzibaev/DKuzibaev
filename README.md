@@ -36,7 +36,7 @@
 
 ### 🧠 About Me
 
-I’m a **System Analyst & AI Automation Engineer with a strong SEO and Data Engineering background**.  
+I’m a **System Analyst, AI Automation Engineer with a Data Engineering knowledge**.  
 I design systems, automate workflows, and turn chaotic data into structured, scalable solutions.
 
 What I focus on:
